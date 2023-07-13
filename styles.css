@@ -63,3 +63,20 @@ body {
   position: absolute;
   top: 30px;
 }
+
+@media screen and (max-width: 700px) {
+  .earth {
+    width: 280px;
+    height: 280px;
+  }
+
+  .orbit{
+    width: 400px;
+    height: 400px;
+  }
+
+  .moon {
+    width: 80px;
+    height:80px;
+  }
+}
